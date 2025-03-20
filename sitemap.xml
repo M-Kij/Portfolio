@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://M-Kij.github.io/Portfolio/</loc>
+         <lastmod>2025-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://M-Kij.github.io/Portfolio/EDA_JustJoinIT/</loc>
+         <lastmod>2025-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://M-Kij.github.io/Portfolio/EDA_Titanic/</loc>
+         <lastmod>2025-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://M-Kij.github.io/Portfolio/Find_Friends/</loc>
+         <lastmod>2025-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://M-Kij.github.io/Portfolio/Fuel_Predict/</loc>
+         <lastmod>2025-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://M-Kij.github.io/Portfolio/NappyDetective/</loc>
+         <lastmod>2025-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://M-Kij.github.io/Portfolio/Race_Oracle/</loc>
+         <lastmod>2025-03-20</lastmod>
+    </url>
 </urlset>
