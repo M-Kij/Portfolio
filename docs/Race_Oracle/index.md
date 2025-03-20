@@ -18,6 +18,6 @@
 **Przykładowe wizualizacje:**  
 
 `Za krótki czas`
-![Pomyłka](Pomyłka.JPG)
+![Pomyłka](Mistake.JPG)
 `Predykcja wyniku`
 ![Wynik](Wynik.JPG)
