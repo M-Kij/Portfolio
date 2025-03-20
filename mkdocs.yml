@@ -1,0 +1,21 @@
+site_name: Moje projekty
+site_author: Maciej Kijewski
+site_description: >-
+    Portfolio moich projektów
+
+theme:
+  name: material
+  palette:
+    primary: teal
+  logo: logo.png
+
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+  - "NappyDetective": NappyDetective/index.md
+- Poprzednie projekty:
+  - "EDA Titanic": EDA_Titanic/index.md
+  - "Find Friends": Find_Friends/index.md
+  - "Race Oracle": Race_Oracle/index.md
+  - "Fuel Predict": Fuel_Predict/index.md
+  - "EDA JustJoinIT": EDA_JustJoinIT/index.md
