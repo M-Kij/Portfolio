@@ -1,7 +1,12 @@
 site_name: Moje projekty
 site_author: Maciej Kijewski
+site_url: https://M-Kij.github.io/Portfolio
+
 site_description: >-
     Portfolio moich projektów
+
+repo_name: M-Kij/Portfolio
+repo_url: https://github.com/M-Kij/Portfolio
 
 theme:
   name: material
