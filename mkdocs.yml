@@ -17,6 +17,7 @@ theme:
 nav:
 - Strona Domowa: index.md
 - Obecny projekt:
+  - "Maturalny Python": Python_Challenge/index.md
   - "NappyDetective": NappyDetective/index.md
 - Poprzednie projekty:
   - "EDA Titanic": EDA_Titanic/index.md
