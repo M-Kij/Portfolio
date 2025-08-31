@@ -18,7 +18,10 @@ Szkolenie składa się z **dwóch części**:
 - Przystępne wyjaśnienia i wskazówki  
 - Liczne przykłady z gotowym kodem do uruchomienia  
 
+Ekran startowy aplikacji:
 ![Ekran startowy](Start.JPG)  
+
+Przykładowa lekcja:
 ![Przykładowa lekcja](Lekcja.JPG)
 
 ### 2. Zadania maturalne (część premium)
@@ -26,7 +29,10 @@ Szkolenie składa się z **dwóch części**:
 - Podpowiedzi i przykładowe rozwiązania z komentarzami  
 - Wyszukiwarka tematyczna zadań, z możliwością filtrowania wg trudności  
 
+Przykładowe zadania maturalne:
 ![Przykładowa matura](Matura.JPG)  
+
+Wyszukiwarka zadań:
 ![Wyszukiwarka zadań](Wyszukiwarka.JPG)
 
 ---
