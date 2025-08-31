@@ -1,7 +1,13 @@
 # Maturalny Python 🎓🐍
 **od 2025/05** 
 
-**Maturalny Python** to aplikacja edukacyjna w Pythonie (niceGUI) z bazą danych i autoryzacją Google w Supabase, płatnościami Stripe, integracją Discorda oraz hostingiem i zadaniami automatycznymi (cron jobs) w Render.
+**Maturalny Python** **[https://maturalnypython.pl](https://maturalnypython.pl)** to aplikacja edukacyjna w Pythonie (niceGUI) oferująca:  
+
+- bazę danych i autoryzację Google w Supabase  
+- płatności poprzez Stripe  
+- wysyłkę automatycznych maili przez SMTP  
+- integrację z Discordem  
+- hosting i zadania automatyczne (cron jobs) w Render
 
 Aplikacja **[Maturalny Python](https://maturalnypython.pl)** skierowana jest do osób, które chcą poznać podstawy programowania w języku Python.  
 Powstała przede wszystkim z myślą o **uczniach szkół średnich przygotowujących się do matury z informatyki**.
@@ -70,7 +76,8 @@ Dla grup dostępne są elastyczne oferty – status premium nadawany jest **bezp
 - Supabase (PostgreSQL + Google OAuth2)  
 - Stripe API (płatności)  
 - Discord API  
-- Render (hosting i cron jobs)  
+- Render (hosting i cron jobs)
+- SMTP / Gmail (wysyłka automatycznych maili)
 
 ---
 
